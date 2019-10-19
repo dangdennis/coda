@@ -1,0 +1,3 @@
+(executable
+ (name print_versioned_types)
+ (libraries compiler-libs.common ppxlib ppx_bin_prot ppx_deriving.api core_kernel))
